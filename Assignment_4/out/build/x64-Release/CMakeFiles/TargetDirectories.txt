@@ -1,0 +1,3 @@
+C:/Users/Jason/source/repos/CG-Spring-2022/Assignment_4/out/build/x64-Release/CMakeFiles/assignment4.dir
+C:/Users/Jason/source/repos/CG-Spring-2022/Assignment_4/out/build/x64-Release/CMakeFiles/edit_cache.dir
+C:/Users/Jason/source/repos/CG-Spring-2022/Assignment_4/out/build/x64-Release/CMakeFiles/rebuild_cache.dir
